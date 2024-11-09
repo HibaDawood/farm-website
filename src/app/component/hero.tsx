@@ -6,12 +6,12 @@ const Hero = () => {
     <div id='Hero' className='font-sans'>
         
       <Image
-        src={"/picture/farm-g-1.jpg"}  
+        src={"/picture/farm-g-1.jpg"} 
+        width={1400}
+        height={100} 
         alt="farms"
-        layout="fill"
-        objectFit="cover"
         priority={true}
-        className="absolute inset-0"
+        className="absolute inset-0 h-screen"
       />
       <div className='relative flex-col my-36 ml-32 mr-[600px]'>
       <h2 className='text-[#F6FCDF] text-[18px] font-medium '>Original & Natural</h2>
