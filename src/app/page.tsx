@@ -28,7 +28,7 @@ const Page = () => {
             </h1>
           </div>
           <p className="text-[#ffca60] text-center mx-80 bg-[#31511e96] mt-3">
-            Agriculture is vital to Pakistan's future, providing employment for
+            Agriculture is vital to Pakistans future, providing employment for
             much of the population, supporting food security, and fueling
             economic growth. Sustainable agricultural practices and innovation
             can help address climate challenges, improve yields, and ensure a

@@ -1,5 +1,5 @@
-import React from 'react'
-import Products from '../component/products'
+import React from 'react';
+import Products from '../component/products';
 
 const page = () => {
   return (

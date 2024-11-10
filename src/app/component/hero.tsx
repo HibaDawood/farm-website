@@ -7,9 +7,9 @@ const Hero = () => {
         
       <Image
         src={"/picture/farm-g-1.jpg"} 
+        alt="farms"
         width={1400}
         height={100} 
-        alt="farms"
         className="absolute inset-0 h-screen"
       />
       <div className='relative flex-col my-36 ml-32 mr-[600px]'>

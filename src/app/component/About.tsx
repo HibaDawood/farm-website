@@ -9,11 +9,11 @@ const About = () => {
         <div className="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
           <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6 md:mb-0 mb-10 ">
             <Image
-              className="object-cover object-center rounded"
               alt="About Image"
               src={"/picture/iamge2-about.avif"}
               width={500}
               height={500}
+              className="object-cover object-center rounded"
             />
           </div>
           <div
@@ -39,7 +39,7 @@ const About = () => {
               Organic Form
             </h1>
             <p className="text-[#ffca60] font-bold">
-              We're Leader in Agriculture Market
+              Were Leader in Agriculture Market
             </p>
             <p className="text-[#F6FCDF] leading-relaxed font-medium">
               where various versions of a passage exist, but most have been
