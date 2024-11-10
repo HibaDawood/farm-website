@@ -10,7 +10,6 @@ const Hero = () => {
         width={1400}
         height={100} 
         alt="farms"
-        priority={true}
         className="absolute inset-0 h-screen"
       />
       <div className='relative flex-col my-36 ml-32 mr-[600px]'>
