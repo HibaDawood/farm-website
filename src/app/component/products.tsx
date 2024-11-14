@@ -86,7 +86,7 @@ const Products = () => {
                   <GiBeet />
                 </div>
                 <p
-                  className="leading-relaxed text-[#F6FCDF] hover:text-[#31511e92] 
+                  className="leading-relaxed   text-[#F6FCDF] hover:text-[#31511e92] 
                 font-medium"
                 >
                   Beet Root
